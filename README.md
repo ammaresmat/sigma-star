@@ -1,2 +1,1 @@
 # sigma-star
-# sigma-star
